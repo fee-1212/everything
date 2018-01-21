@@ -1,0 +1,24 @@
+{
+  "name": "everything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fee-1212/everything.git"
+  },
+  "keywords": [
+    "practise",
+    "newer",
+    "drill"
+  ],
+  "author": "tchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fee-1212/everything/issues"
+  },
+  "homepage": "https://github.com/fee-1212/everything#readme"
+}
